@@ -1,4 +1,6 @@
 # noise-ninja
+Developed during the Spring and Summer of 2019.
+
 An open-source audio file player.
 
 # Technical Challenges/What I Learned
